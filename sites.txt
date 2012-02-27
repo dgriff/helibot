@@ -1,0 +1,3 @@
+http://www.helicoptergame.net/
+http://stackoverflow.com/questions/1997678/faster-method-of-reading-screen-pixel-in-python-than-pil
+http://stackoverflow.com/questions/3800458/quickly-getting-the-color-of-some-pixels-on-the-screen-in-python-on-windows-7
